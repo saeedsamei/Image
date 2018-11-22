@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("lifecycle","onRestart Run");
     }
 
+
     @Override//This last is removed before activity from memory.
     protected void onDestroy() {
         super.onDestroy();
