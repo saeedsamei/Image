@@ -24,7 +24,7 @@
      -->
     <ImageView
         android:id="@+id/imageView"
-        app:srcCompat="@mipmap/saeed"
+        app:srcCompat="@drawable/saeed"
         android:layout_width="400dp"
         android:layout_height="200dp"
         app:layout_constraintBottom_toBottomOf="parent"
